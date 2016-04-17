@@ -1,0 +1,20 @@
+.list ul {
+  list-style-type: none;
+}
+
+.list a {
+  font: 1.5em Open Sans, Helvetica Neue, Helvetica, Arial,sans-serif;
+  font-weight: bold;
+  /*border-bottom: 1px solid #ccc;*/
+}
+
+/*.list li a:hover {
+  font-size: 25px;
+  background: #f6f6f6;
+}*/
+
+.list span {
+    font-size: 1.2em;
+	font-family: Lora, Times New Roman, serif;
+}
+
